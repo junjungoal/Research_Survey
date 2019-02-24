@@ -14,7 +14,7 @@
 - Better Exploration than policy gradient methods such as TRPO
 - More robust
 
-** Black-box optimization such as Neural Evolution Strategies is indifferent to the distribution of rewards(sparse or dense), no need for backpropagating gradients. However, it's still less effective at solving hard RL tasks comparing to Q-learning and some policy gradient methods.**
+**Black-box optimization such as Neural Evolution Strategies is indifferent to the distribution of rewards(sparse or dense), no need for backpropagating gradients. However, it's still less effective at solving hard RL tasks comparing to Q-learning and some policy gradient methods.**
 
 ## How
 
